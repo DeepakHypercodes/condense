@@ -1,4 +1,4 @@
-# Condense - Secure Token Verifier :)
+# Condense - Secure Token Verifier 
 
 ![Condense](https://img.shields.io/badge/Security-Token%20Verification-green.svg) ![GitHub license](https://img.shields.io/github/license/GitByMY/condense) ![GitHub stars](https://img.shields.io/github/stars/GitByMY/condense?style=social)
 
